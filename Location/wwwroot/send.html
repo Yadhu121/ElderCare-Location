@@ -1,0 +1,24 @@
+<script>
+const ws = new WebSocket("wss://disproportionable-unantagonistic-alvin.ngrok-free.dev/ws");
+
+ws.onopen = () => {
+  alert("WebSocket connected");
+
+  navigator.geolocation.watchPosition(
+    pos => {
+      const msg = pos.coords.latitude + "," + pos.coords.longitude;
+      ws.send(msg);
+      console.log("sent", msg);
+    },
+    err => alert("GPS error: " + err.message),
+    {
+      enableHighAccuracy: true,
+      maximumAge: 0,
+      timeout: 10000
+    }
+  );
+};
+
+ws.onclose = () => alert("WebSocket CLOSED");
+ws.onerror = () => alert("WebSocket ERROR");
+</script>

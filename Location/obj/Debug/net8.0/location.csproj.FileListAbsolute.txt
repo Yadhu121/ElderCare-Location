@@ -1,0 +1,114 @@
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/appsettings.Development.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/appsettings.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.staticwebassets.runtime.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.staticwebassets.endpoints.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.deps.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.runtimeconfig.json
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.dll
+/home/Yadhu/code/webSocket/location/location/bin/Debug/net8.0/location.pdb
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/rpswa.dswa.cache.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.GeneratedMSBuildEditorConfig.editorconfig
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.AssemblyInfoInputs.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.AssemblyInfo.cs
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.csproj.CoreCompileInputs.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.MvcApplicationPartsAssemblyInfo.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.RazorAssemblyInfo.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.RazorAssemblyInfo.cs
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/scopedcss/bundle/location.styles.css
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/scopedcss/projectbundle/location.bundle.scp.css
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/staticwebassets.build.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/staticwebassets.build.json.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/staticwebassets.development.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/swae.build.ex.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.dll
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/refint/location.dll
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.pdb
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/location.genruntimeconfig.cache
+/home/Yadhu/code/webSocket/location/location/obj/Debug/net8.0/ref/location.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\appsettings.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.staticwebassets.runtime.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.staticwebassets.endpoints.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.exe
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.deps.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.runtimeconfig.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\location.pdb
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.AssemblyInfoInputs.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.AssemblyInfo.cs
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.csproj.CoreCompileInputs.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.RazorAssemblyInfo.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.RazorAssemblyInfo.cs
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.sourcelink.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\scopedcss\bundle\location.styles.css
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\scopedcss\projectbundle\location.bundle.scp.css
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\refint\location.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.pdb
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.genruntimeconfig.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\ref\location.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.csproj.AssemblyReference.cache
+C:\Users\Yadhu\Desktop\New folder\LOCATION\location\location\obj\Debug\net8.0\location.csproj.Up2Date
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\appsettings.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.staticwebassets.endpoints.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.staticwebassets.runtime.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.exe
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.deps.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.runtimeconfig.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\location.pdb
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.csproj.AssemblyReference.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.AssemblyInfoInputs.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.AssemblyInfo.cs
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.csproj.CoreCompileInputs.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.RazorAssemblyInfo.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.RazorAssemblyInfo.cs
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\scopedcss\bundle\location.styles.css
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\scopedcss\projectbundle\location.bundle.scp.css
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.csproj.Up2Date
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\refint\location.dll
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.pdb
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\location.genruntimeconfig.cache
+C:\Users\Yadhu\Desktop\New folder (2)\location\obj\Debug\net8.0\ref\location.dll
