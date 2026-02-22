@@ -8,7 +8,6 @@ using System.Security.Claims;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Enable CORS
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
@@ -24,19 +23,9 @@ var app = builder.Build();
 app.UseCors();
 app.UseWebSockets();
 
-// ============================
-// In-memory storage
-// ============================
-
-// Latest location per elder
 ConcurrentDictionary<int, (double lat, double lng)> latestLocations = new();
 
-// Full path history per elder
 ConcurrentDictionary<int, ConcurrentQueue<(double lat, double lng)>> paths = new();
-
-// ============================
-// JWT Settings (must match main app)
-// ============================
 
 var jwtSection = builder.Configuration.GetSection("Jwt");
 var jwtKey = jwtSection["Key"];
@@ -47,10 +36,6 @@ if (string.IsNullOrEmpty(jwtKey))
 {
     throw new Exception("JWT Key not configured in appsettings.json");
 }
-
-// ============================
-// WebSocket Endpoint
-// ============================
 
 app.Map("/ws", async context =>
 {
@@ -63,7 +48,6 @@ app.Map("/ws", async context =>
         return;
     }
 
-    // Validate JWT
     ClaimsPrincipal principal;
     int elderId;
 
@@ -99,7 +83,6 @@ app.Map("/ws", async context =>
             return;
         }
 
-        // Only elders can send location
         if (roleClaim.Value != "Elder")
         {
             context.Response.StatusCode = 403;
@@ -151,16 +134,15 @@ app.Map("/ws", async context =>
                 double.TryParse(parts[0], NumberStyles.Any, CultureInfo.InvariantCulture, out double lat) &&
                 double.TryParse(parts[1], NumberStyles.Any, CultureInfo.InvariantCulture, out double lng))
             {
-                // Store latest location
                 latestLocations[elderId] = (lat, lng);
 
-                // Store path history
+
                 if (!paths.ContainsKey(elderId))
                     paths[elderId] = new ConcurrentQueue<(double, double)>();
 
                 paths[elderId].Enqueue((lat, lng));
 
-                // Limit path size
+
                 if (paths[elderId].Count > 1000)
                     paths[elderId].TryDequeue(out _);
 
@@ -178,11 +160,6 @@ app.Map("/ws", async context =>
     }
 });
 
-// ============================
-// REST APIs
-// ============================
-
-// Latest location
 app.MapGet("/location/{elderId:int}", (int elderId) =>
 {
     if (latestLocations.TryGetValue(elderId, out var loc))
@@ -191,7 +168,6 @@ app.MapGet("/location/{elderId:int}", (int elderId) =>
     return Results.NotFound(new { error = "No location data" });
 });
 
-// Full path
 app.MapGet("/path/{elderId:int}", (int elderId) =>
 {
     if (paths.TryGetValue(elderId, out var path))
@@ -200,7 +176,6 @@ app.MapGet("/path/{elderId:int}", (int elderId) =>
     return Results.Ok(new List<object>());
 });
 
-// Health check
 app.MapGet("/health", () =>
     Results.Ok(new
     {
