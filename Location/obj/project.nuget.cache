@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bC8MN8+yfPs=",
+  "dgSpecHash": "5x+E5lLPqCY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\location.csproj",
+  "projectFilePath": "C:\\Users\\Yadhu\\Desktop\\Jr projects\\ElderCare\\ElderCare-Location\\Location\\location.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yadhu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Yadhu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",

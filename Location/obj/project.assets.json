@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\location.csproj",
+      "projectUniqueName": "C:\\Users\\Yadhu\\Desktop\\Jr projects\\ElderCare\\ElderCare-Location\\Location\\location.csproj",
       "projectName": "location",
-      "projectPath": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\location.csproj",
+      "projectPath": "C:\\Users\\Yadhu\\Desktop\\Jr projects\\ElderCare\\ElderCare-Location\\Location\\location.csproj",
       "packagesPath": "C:\\Users\\Yadhu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\obj\\",
+      "outputPath": "C:\\Users\\Yadhu\\Desktop\\Jr projects\\ElderCare\\ElderCare-Location\\Location\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -845,6 +845,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -863,7 +864,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -897,7 +898,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
