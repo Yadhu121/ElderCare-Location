@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCF2045-3E8F-011D-BD65-32601635D06E}|location.csproj|c:\\users\\yadhu\\desktop\\kmradius\\eldercare-location\\location\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCF2045-3E8F-011D-BD65-32601635D06E}|location.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCF2045-3E8F-011D-BD65-32601635D06E}|location.csproj|c:\\users\\yadhu\\desktop\\kmradius\\eldercare-location\\location\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FCF2045-3E8F-011D-BD65-32601635D06E}|location.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAPABAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T02:54:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Yadhu\\Desktop\\Kmradius\\ElderCare-location\\Location\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T02:53:09.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
